@@ -20,9 +20,15 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+    # Ruby 3.4 removed these from default gems; Jekyll 4.3 / citeproc-ruby still need them.
+    gem 'observer'
+    gem 'csv'
+    gem 'base64'
 end
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    # Ruby 3.4 has no precompiled nokogiri 1.17 Windows gem; 1.18+ ships x64-mingw-ucrt binaries.
+    gem 'nokogiri', '>= 1.18'
 end
