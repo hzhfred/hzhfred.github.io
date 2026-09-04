@@ -9,7 +9,7 @@ profile:
   image: ZihengHuang.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="/cv/">CV</a> &middot; <a href="https://scholar.google.com/citations?user=zF4jzsEAAAAJ&hl=en">Google Scholar</a> &middot; <a href="https://www.linkedin.com/in/ziheng-huang-52619a1a5">LinkedIn</a></p>
+    <p><a href="">CV</a> &middot; <a href="https://scholar.google.com/citations?user=zF4jzsEAAAAJ&hl=en">Google Scholar</a> &middot; <a href="https://www.linkedin.com/in/ziheng-huang-52619a1a5">LinkedIn</a></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
