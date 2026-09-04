@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Graduate teaching assistant at the University of Illinois Urbana-Champaign.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**CS 565: Ethics in AI**, UIUC · Spring 2026  
+Graduate Teaching Assistant · Instructor: Dr. [Sharifa Sultana](https://www.sharifasultana.com/)
 
-Organize your courses by years, topics, or universities, however you like!
+**CS 465: User Interface Design**, UIUC · Fall 2025  
+Graduate Teaching Assistant · Instructor: Dr. [Brian Bailey](https://orchid.cs.illinois.edu/people/bailey/index.html)
+
+**CS 598: Language, Interfaces, and Communication**, UIUC · Spring 2025  
+Graduate Teaching Assistant · Instructor: Dr. [Tal August](https://talaugust.github.io/)
+
+**CS 465: User Interface Design**, UIUC · Fall 2024  
+Graduate Teaching Assistant · Instructor: Dr. [Brian Bailey](https://orchid.cs.illinois.edu/people/bailey/index.html)
